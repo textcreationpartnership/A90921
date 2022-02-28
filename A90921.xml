@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vindication of Colonel General Poyntz, against the false and malicious slanders secretly cast forth against him; as in a letter to a friend of his, and a servant to the state doth appear.</title>
+            <author>Poyntz, Sydenham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90921</idno>
+            <idno type="STC">Wing P3137</idno>
+            <idno type="STC">Thomason E320_8</idno>
+            <idno type="STC">ESTC R200567</idno>
+            <idno type="EEBO-CITATION">99861282</idno>
+            <idno type="PROQUEST">99861282</idno>
+            <idno type="VID">159021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159021)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E320[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vindication of Colonel General Poyntz, against the false and malicious slanders secretly cast forth against him; as in a letter to a friend of his, and a servant to the state doth appear.</title>
+                  <author>Poyntz, Sydenham.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>February 3. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Stoake, Jan. 20. 1645. .. Sydnham Poyntz.</note>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyntz, Sydenham.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Biography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159021:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 107 -->
+            <p>THE VINDICATION OF Colonel General POYNTZ, AGAINST The falſe and malicious Slanders ſecretly caſt forth againſt him; As in a Letter to a Friend of his, and a Ser<g ref="char:EOLhyphen"/>vant to the State, doth appear.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons. February 3. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159021:2"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:159021:2"/>
+            <!-- PDF PAGE 108 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received your Letter, wherein you have ſhewn not onely love, but fidelity to your Kinſman, in that your freedom of advice and information, in both which I cannot ſay whe<g ref="char:EOLhyphen"/>ther I have the greater occaſion of thanks for your goodneſſe, or ſorrow for other mens malice, in aſperſing him, who by an unfeigned heart and dili<g ref="char:EOLhyphen"/>gence hath ſought to ſerve them. Yet me thinks when I conſi<g ref="char:EOLhyphen"/>der what perſonages of fidelity and honour have been abuſed by ſecret Emulations, and the unworthy Scandals of weak and light ſpirits; I begin to queſtion with my ſelf, Who am I, that I ſhould be thus troubled at this fatall vanity, and in ſuch a time, when even the community of all things at preſent ſeems to ſuffer under it.</p>
+            <p>Indeed, were not the tyranny of envious and depraving tongues become almoſt univerſal, I had not wanted all reaſon for complaint; but ſeeing the Diſeaſe is grown ſo Epidemical, too much ſence thereof in me a particular perſon, would ren<g ref="char:EOLhyphen"/>der me not only too partial, but even ridiculous, which invites me to be as patient of the affront, as I am hopeleſſe of reparati<g ref="char:EOLhyphen"/>on; That alone which ſticks with me, beyond the ſtrength of removal, is, That theſe falſe whiſperers have inſinuated theſe palpable untruths into the ears of divers in the Parliament, this very Parliament under whom I ſerve, from whom I have received ſuch teſtimonies of truſt and favour, the actions of whom I do not alone honour but admire, And for whom I ſhall with all quietneſſe and reſolution ſubmit me to the ex<g ref="char:EOLhyphen"/>treameſt ſufferings of life and fortune: When therefore I con<g ref="char:EOLhyphen"/>ſider my ſelf preſented to them in ſo rude and falſe a vizard, without any pretence of merit, this I confeſſe cuts me deep, even to the very ſoul, and compels me to ſtoop ſo much to the importunities of truth and mine own conſcience, as to think it no miſexpence of time, to give a true anſwer to the particulars
+<pb facs="tcp:159021:3"/>
+               <!-- PDF PAGE 109 -->of thoſe reproaches caſt upon me.</p>
+            <p>I obſerve the firſt wedge by which theſe diſcreet Engineers have ſought to rend me, is matter of Religion; as though I neither were religious my ſelf, or reſpected it in other men; wherein, to challenge to my ſelf perfection, were more then Phariſaical, yet I may take the leave not only to ſay, but truly to aver this, That I ever did, and truſt ever ſhall ſincerely love and honour both Religion and religious men, and do profeſſe, that generally I have and do value honeſty beyond meer abi<g ref="char:EOLhyphen"/>lities, even in my own element as a Souldier, and ſhould ac<g ref="char:EOLhyphen"/>knowledge my ſelf truly convicted, might but one Example be produced, of that honeſt man whom I have not countenan<g ref="char:EOLhyphen"/>ced and loved againſt all oppoſition. Truly it hath been my grief, that for publique duties ſake as well as private helps and conveniency, I never had a Chaplein allowed me to my Re<g ref="char:EOLhyphen"/>giment, ſince I was honored with the ſervice of the Parlia<g ref="char:EOLhyphen"/>ment, although I have ſolicited and intreated the ſame from eminent and worthy Members of the Houſe; yet I never was (I thank God) without one, although in three moneths time be ſcarce ever reſted from a march on the Sabbath day, the ne<g ref="char:EOLhyphen"/>ceſſity of the publique Service, and the juſt regards I owed to the Enemies motions and endeavours compelling me there<g ref="char:EOLhyphen"/>unto. I have given ſo much obedience to advantage and op<g ref="char:EOLhyphen"/>portunity, that many times the exigency of Action requiring much diſpatch, I have been cenſured as raſh by ſome who pre<g ref="char:EOLhyphen"/>tend to more Souldiery, then their Experience can make them capable of: Certainly, if any neceſſities are to be yielded un<g ref="char:EOLhyphen"/>to, thoſe of a Souldier may challenge place, where the obliga<g ref="char:EOLhyphen"/>tions of life and fortune run on equal hazards, and in the action it ſelf, I rather care to ſerve the State then to pleaſe mens fan<g ref="char:EOLhyphen"/>cies, wherein I may ſay, that had I not neglected Objections and Scruples, but been guided by the ſafe contemplations of ſome, the Kings army of horſe had been yet unfought withall by this under my command. I know very well how uſeleſſe an army is without care and providence, yet when action ſhall be converted into ſpeculation, and to be then counſelling
+<pb facs="tcp:159021:3"/>
+               <!-- PDF PAGE 109 -->when we ſhould be doing, is but indeed to undo all; For the loſſe of time is a miſtake of ſuch a nature, as many times to fail once, is to be undone for ever.</p>
+            <p>For the other Objection, That I am an oppreſſor of the country; This is a falſhood ſo notorious, that I call to witnes the Gentlemen of all Committees in my march from York<g ref="char:EOLhyphen"/>ſhire throughout the greateſt part of England; nay I call the people themſelves to witneſſe, Whether ever I aſſeſſed the country for Six pence; and Whether I have not even be<g ref="char:EOLhyphen"/>fore them in the head of an army given ſtrict order to the con<g ref="char:EOLhyphen"/>trary, letting them know, my coming to them was for their preſervation, and that I was bound by my truſt to ſee no inju<g ref="char:EOLhyphen"/>ry ſhould be offered them; all that was deſired, was no more but a nights quarter upon our march, which with abundant cheerfulneſſe and love they offered; neither knew I how to ſpare this, unleſſe I knew how to compound with the nature of men and beaſts, who muſt have food for their preſent ſubſi<g ref="char:EOLhyphen"/>ſtence: That ſome Offences may have been committed, I will not take upon me to deny, but yet as much againſt my Orders and Deſires as any mans living; yet when I conſider the te<g ref="char:EOLhyphen"/>dious marches, accompanied with continual and hard duty, and comparing the pay with the pains of theſe Forces, me thinks it deſerves admiration as much as cenſure; and how I endeavour here to prevent diſorders, that all armies labour un<g ref="char:EOLhyphen"/>der, and which the want of pay doth produce, I refer to the judgement and report of the Gentlemen in theſe parts reſi<g ref="char:EOLhyphen"/>ding with me.</p>
+            <p>There is yet a more blaſting and ſpightfull report, not ſo weak as purely falſe, which is, That I ſhould aſſume the Title of <hi>Excellency,</hi> on purpoſe to draw the Curtain of Envie upon me; this I do with all openneſſe diſclaim and proteſt, I have been, am and will be, ſo far from the vanity of ſuch Ambition, that whenever it ſhall pleaſe the Parliament to command me, I will with as much faithfulneſſe as alacrity trail a Pike un<g ref="char:EOLhyphen"/>der that honored and gallant Gentleman, Sir <hi>Thomas Fairfax,</hi> where that Title meets with proportionable merit: And as
+<pb facs="tcp:159021:4"/>
+               <!-- PDF PAGE 110 -->my converſation is plain and open, ſo my Accuſers ſhall ſince neither my heart or actions incline to ſo much pride, as once to own ſo vain a Contemplation.</p>
+            <p>I obſerve where the tongue hath once broken the limits of its own Sphere, like parralell lines it runs on for ever, elſe how can any man cloath himſelf with ſo much and ſo brazen im<g ref="char:EOLhyphen"/>pudence, as to report me a debaucht perſon, for beſides that reverence I owe to God, I cannot as a Gentleman of quality, &amp; that honor the Parliament hath thought me worthy of, ſtoop to any meanneſſe that way; for if they mean by drink, I muſt acknowledge the conſtitution of my body will not allow it, as being much accuſtomed to another climat, that very ſeldom or never admits it, beſides my diſpoſition by nature (I wil ſay nothing of my continual &amp; reſtles imployments) doth oppoſe it; &amp; if they mean by women, I beleeve he that knows I have not bin in a bed theſe 4 months, unles in my ſicknes at <hi>Noting<g ref="char:EOLhyphen"/>ham,</hi> would eaſily excuſe me ſhould I be ſo unjuſt to my own Innocency as not to deny it; and moreover the daily Ala<g ref="char:EOLhyphen"/>rums and reſtleſſe pains I undergo, may be thought a ſuffi<g ref="char:EOLhyphen"/>cient cooling card for ſuch folly, for all thoſe that know my cuſtome and propenſion, let it be by any creature living made appear, that ever I uſed the leaſt incivility or behaviour that might not ſquare with the ſtrict rules of temper and ho<g ref="char:EOLhyphen"/>nour, and will acknowledge my ſelfe guilty of what ever the malice of theſe people can invent againſt me; and here I take God to witnes who knowes my thoughts as well as acti<g ref="char:EOLhyphen"/>ons, that even herein I am as clear and innocent as any man that lives, and when the Reporter ſhalbe found out, I dare ap<g ref="char:EOLhyphen"/>peal to him to give judgment of his own falſhood; for ſeeing I am ſeldom (I may ſay never alone) I muſt challenge all or any uſually with or about me to vindicat or accuſe me of this Scan<g ref="char:EOLhyphen"/>dal, which I do not more deny then ſcorn and abhor: Yet as if theſe were not ſufficient, I am like to be rackt betwixt two contrarieties, for I perceive ſome there are who diſlike me, as over civil to the adverſe party, when as the Enemy them<g ref="char:EOLhyphen"/>ſelves have bound their companions under ſevere execra<g ref="char:EOLhyphen"/>tions,
+<pb facs="tcp:159021:4"/>
+               <!-- PDF PAGE 110 -->never to give me quarter if they can take me; in either ſenſe I ſpeak it with confidence, I never did any thing which became not a Gentleman, and a Souldier of truſt. Harſhnes and cruelty to an enemy under mercy and power, favours as much of a mean diſpoſition, as over-much courting and faw<g ref="char:EOLhyphen"/>ning doth of lenity and baſeneſſe; I hold a military lawfulnes in that which ſuits with the honour, as well as the advantage of thoſe to whom I am a ſervant. Nevertheleſſe it ſeems my curteſie runs not throughout my actions, for by ſome I am cenſured as over ſevere to thoſe under my command, whilſt others are pleaſed to throw their criticiſmes upon my familia<g ref="char:EOLhyphen"/>rity, as proceeding from too much eaſineſſe, and how a man may ſerve theſe contradictory judgements, I ſhould be glad to learn, eſpecially ſeeing I am repreſentd to a third man in as ſeveral Colours as the Glaſſes of oppoſite fancies can diſ<g ref="char:EOLhyphen"/>cover. I ſhall confeſſe, that being accuſtomed to a formal diſcipline ſo long beyond Sea, I may ſeem hard to thoſe who know no better; yet ſeeing it hath pleaſed God to proſper the Force under my guidance, I may ſay, that unleſſe diſci<g ref="char:EOLhyphen"/>pline were ſometimes uſed, I am too ſenſible what the iſſue of thoſe actions had long ſince been, which hath in ſome meaſure rendred themſelves acceptible.</p>
+            <p>There is yet one great myſtery more concerning me reveal<g ref="char:EOLhyphen"/>ed, which is, that I am a Papiſt. Of all the reſt I am leaſt troubled at this Rumor, it being in the power of ſo many thouſands to Vindicate me, who have been witneſſes of my conſtant Profeſſion, which from my firſt years, according to the Inſtructions of this my Native Countrey, have been in the Reformed Proteſtant Religion, and accordingly have for many years been an Elder of the <hi>Dutch</hi> Church, as is very well known. Neither indeed could I deviſe the reaſon of this ſuſpition, till of late I finde it to be, becauſe I ſerved the Em<g ref="char:EOLhyphen"/>perour againſt the Duke of <hi>Saxony,</hi> and for my Service was Knighted in the Field; wherein I muſt ſay, That Duke car<g ref="char:EOLhyphen"/>ried Himſelf ſo diſtaſtful in that Quarrel to divers Proteſtant Princes; that were I again a meer Souldier of Fortune, and
+<pb facs="tcp:159021:5"/>
+               <!-- PDF PAGE 111 -->to chuſe ſides, I ſhould fight againſt ſo much falſhood as the Duke ſhew'd in the proſecution of that Quarrel; and of what Religion the Duke of <hi>Saxony</hi> was, or whether of any, is to me as yet unrevealed, however the world might ſtile him; for indeed his fighting was point of Intereſt, not Religion. In all Wars there are and will be Factions, and even in this, mine ears have heard ſeveral Conteſts managed with more height and ferver then became the merits of the Argument: For mine own part, I came with an intent to fight, not to diſpute for the State, and ſo the Profeſſion of Religion be rectified, and the means of Salvation clear and open, for the forms of external Diſcipline; I am prepared to obſerve the Directions and Commands of the Parliament, without in<g ref="char:EOLhyphen"/>tereſsing my ſelf unneceſſarily in ſuch Conteſtations. And however it hath pleaſed the fancy of theſe Defamers in ſuch groſſe untruths, thus to Scandalize an honeſt man; yet ac<g ref="char:EOLhyphen"/>cording to your Councel, I will go on in this Service with all cheerfulneſſe, and though I have received ſuch diſcou<g ref="char:EOLhyphen"/>ragements from my very firſt entring into this Command, as will hardly be equalled, yet when I obſerve the judgement of the Parliament to be right towards me, I am reſolved to break through all difficulties to advance their Service: For as the Juſtice of that Cauſe they maintain is a ſufficient ſpur to all honeſt intentions, to put all to the laſt hazard; ſo their particular favours and obligations to me, ſhall force me through theſe petty obſtructions to approve my ſelf, what you know me, an Engliſh<g ref="char:EOLhyphen"/>man and a Gentleman. For my care and fidelity, the Lord look upon me according to the honeſty of my intentions and poor endeavors, and diſ<g ref="char:EOLhyphen"/>cover truth from falſhood; and then I queſtion not but the time will come, when an honeſt man may be thought upon anſwerable to his truſt; and theſe Back biters and unprofitable Slanders receive their merits. For your love and faithfulneſſe in this buſineſſe, I deſire you to perſwade your ſelf, there is none who ſhall more thankfully acknowledge it upon the advantage of all occaſions, then</p>
+            <closer>
+               <dateline>
+                  <hi>Stoake,</hi> 
+                  <date>Jan. 20. 1645.</date>
+               </dateline>
+               <signed>
+                  <hi>Your aſſured loving Kinſman and faith<g ref="char:EOLhyphen"/>ful Servant,</hi> Sydnham Poyntz.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
